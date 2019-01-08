@@ -16,7 +16,7 @@ authors = ["Yingzhong Gu", "Le Xie"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Transactions on Power Systems*, vol. 28, no. 2, pp. 1297-1307, May 2013."
