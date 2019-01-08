@@ -22,11 +22,11 @@ publication_types = ["2"]
 publication = "*IEEE Transactions on Power Systems*, vol. 28, no. 2, pp. 1297-1307, May 2013."
 publication_short = "*IEEE Transactions on Power Systems*, vol. 28, no. 2, pp. 1297-1307, May 2013."
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
+abstract = "This paper presents a novel algorithm for the early detection and optimal corrective measures of power system insecurity in an enhanced look-ahead dispatch framework. By introducing short-term dispatchable capacity (STDC) into the proposed look-ahead security management (LSM) scheme, the algorithm is capable of predicting and identifying future infeasibilities that pose security risks to the system under both normal conditions and assumed contingency conditions. An optimal recovery plan can be computed to prevent system insecurity at a minimal cost. Early awareness of such information is of vital importance to system operators for taking timely actions with more flexible and cost-effective measures. This, in addition to the economic benefits studied in the literature, demonstrates the advantage of security improvement of the look-ahead dispatch framework. The performance of the proposed algorithms is illustrated in a revised 24-bus IEEE Reliability Test System as well as in a practical 5889-bus system."
+abstract_short = "This paper presents a novel algorithm for the early detection and optimal corrective measures of power system insecurity in an enhanced look-ahead dispatch framework. By introducing short-term dispatchable capacity (STDC) into the proposed look-ahead security management (LSM) scheme, the algorithm is capable of predicting and identifying future infeasibilities that pose security risks to the system under both normal conditions and assumed contingency conditions. An optimal recovery plan can be computed to prevent system insecurity at a minimal cost. Early awareness of such information is of vital importance to system operators for taking timely actions with more flexible and cost-effective measures. This, in addition to the economic benefits studied in the literature, demonstrates the advantage of security improvement of the look-ahead dispatch framework. The performance of the proposed algorithms is illustrated in a revised 24-bus IEEE Reliability Test System as well as in a practical 5889-bus system."
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.
