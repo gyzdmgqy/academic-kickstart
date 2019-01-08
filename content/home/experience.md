@@ -47,7 +47,6 @@ date_format = "January 2006"
   * Participate in software QA process and development of QA processes
   * Lead/perform customer training to teach users on the application and use of software products"""
 
-
 [[experience]]
   title = "Power System Engineer Intern"
   company = "California ISO"
@@ -79,12 +78,12 @@ date_format = "January 2006"
   * Involved in the development, design, and testing of SPP Market Management System (MMS).
   * Developed a python based automatic code generator for SPP Market Management System.
   * Verified and revised the database input/output structure documentation. 
-Project: High-Performance Stochastic Unit Commitment 
+  Project: High-Performance Stochastic Unit Commitment 
   * Literature studies of efficient stochastic programming algorithms.
   * Studied and investigated the Coopr package developed by Sandia National Lab.
   * Implemented the progressive hedging algorithm in Alstom MCE solution.
   * Designed and developed a scenario generation module for power system scheduling.
-  * Performed Numerical Experiments of stochastic unit commitment for MISO and SPP Market Management Systems.
+  * Performed Numerical Experiments of stochastic unit commitment for MISO and SPP Market Management Systems."""
 
 [[experience]]
   title = "Graduate Research Assistant"
@@ -102,6 +101,5 @@ Project: High-Performance Stochastic Unit Commitment
   * Engineering IT-enabled electricity services: the case of low-cost green Azores islands Dec.2010-12
   * Assessment of curtailed wind generation: algorithms and case studies Oct.2010-Sept.2013
   * Impacts of aggregation of smart charging PHEVs on deregulated market, Mar.2010-Sept.2012
-
 """
 +++
