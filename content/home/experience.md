@@ -101,7 +101,7 @@ Project: High-Performance Stochastic Unit Commitment
   * Spatial-temporal wind forecast for enhanced power system dispatch Dec.2010-Dec.2015
   * Engineering IT-enabled electricity services: the case of low-cost green Azores islands Dec.2010-12
   * Assessment of curtailed wind generation: algorithms and case studies Oct.2010-Sept.2013
-  * Impacts of aggregation of smart charging PHEVs on deregulated market, Mar.2010-Sept.2012 S
+  * Impacts of aggregation of smart charging PHEVs on deregulated market, Mar.2010-Sept.2012
 
 """
 +++
