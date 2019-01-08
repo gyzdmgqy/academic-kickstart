@@ -19,7 +19,7 @@ authors = ["Yingzhong Gu", "Le Xie"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "2014 IEEE PES General Meeting"
+publication = "*IEEE Transactions on Power Systems*, vol. 28, no. 2, pp. 1297-1307, May 2013."
 
 # Abstract and optional shortened version.
 abstract = ""
