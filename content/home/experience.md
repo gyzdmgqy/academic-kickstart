@@ -19,27 +19,32 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Senior Researcher"
+  company = "GEIRI North America"
+  company_url = "https://www.geirina.net"
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2018-12-27"
   date_end = ""
+  description = "Conduct state-of-the-art research and develop innovative technologies and solutions for power systems PMU data analytics, linear state estimation, artificial intelligence, and optimization, etc."
+
+[[experience]]
+  title = "Development Lead"
+  company = "GE Energy Consulting"
+  company_url = "https://www.geenergyconsulting.com/"
+  location = "New York"
+  date_start = "2014-10-06"
+  date_end = "2018-12-21"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  * Lead GE's major ongoing development efforts for MAPS;
+  * Lead/conduct consulting projects to energy industry assets economic planning
+  * Work closely with customers to guide our investments in new products
+  * Enhance and develop core mathematical algorithms/modeling in GE MAPS
+  * Execute on new product developments related to improved modeling
+  * Conduct research in power engineering and renewable energy integration. 
+  * Organize/perform sales and marketing activities, customer presentations to promote GE MAPS
+  * Participate in software QA process and development of QA processes
+  * Lead/perform customer training to teach users on the application and use of software products"""
 
 +++
