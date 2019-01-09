@@ -1,7 +1,7 @@
 +++
 
 title = "Early1111 detection and optimal corrective measures of power system insecurity in enhanced look-ahead dispatch"
-date = 
+date = 2013-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
