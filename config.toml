@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Yingzhong (Gary) Gu - GEIRINA"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -70,8 +70,8 @@ enableGitInfo = false
   Wednesday 09:00 to 10:00\\
   Otherwise email to book an appointment
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = ""
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
