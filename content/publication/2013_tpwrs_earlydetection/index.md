@@ -23,129 +23,33 @@ publication = "*IEEE Transactions on Smart Grid*, Volume: 5 , Issue: 1 , Jan. 20
 publication_short = "*IEEE Transactions on Smart Grid*, Volume: 5 , Issue: 1 , Jan. 2014."
 
 # Abstract and optional shortened version.
-abstract = "This paper presents a novel algorithm for the early detection and optimal corrective measures of power system insecurity in an enhanced look-ahead dispatch framework. By introducing short-term dispatchable capacity (STDC) into the proposed look-ahead security management (LSM) scheme, the algorithm is capable of predicting and identifying future infeasibilities that pose security risks to the system under both normal conditions and assumed contingency conditions. An optimal recovery plan can be computed to prevent system insecurity at a minimal cost. Early awareness of such information is of vital importance to system operators for taking timely actions with more flexible and cost-effective measures. This, in addition to the economic benefits studied in the literature, demonstrates the advantage of security improvement of the look-ahead dispatch framework. The performance of the proposed algorithms is illustrated in a revised 24-bus IEEE Reliability Test System as well as in a practical 5889-bus system."
-abstract_short = "This paper presents a novel algorithm for the early detection and optimal corrective measures of power system insecurity in an enhanced look-ahead dispatch framework. By introducing short-term dispatchable capacity (STDC) into the proposed look-ahead security management (LSM) scheme, the algorithm is capable of predicting and identifying future infeasibilities that pose security risks to the system under both normal conditions and assumed contingency conditions. An optimal recovery plan can be computed to prevent system insecurity at a minimal cost. Early awareness of such information is of vital importance to system operators for taking timely actions with more flexible and cost-effective measures. This, in addition to the economic benefits studied in the literature, demonstrates the advantage of security improvement of the look-ahead dispatch framework. The performance of the proposed algorithms is illustrated in a revised 24-bus IEEE Reliability Test System as well as in a practical 5889-bus system."
+abstract = "We propose a novel statistical wind power forecast framework, which leverages the spatio-temporal correlation in wind speed and direction data among geographically dispersed wind farms. Critical assessment of the performance of spatio-temporal wind power forecast is performed using realistic wind farm data from West Texas. It is shown that spatio-temporal wind forecast models are numerically efficient approaches to improving forecast quality. By reducing uncertainties in near-term wind power forecasts, the overall cost benefits on system dispatch can be quantified. We integrate the improved forecast with an advanced robust look-ahead dispatch framework. This integrated forecast and economic dispatch framework is tested in a modified IEEE RTS 24-bus system. Numerical simulation suggests that the overall generation cost can be reduced by up to 6% using a robust look-ahead dispatch coupled with spatio-temporal wind forecast as compared with persistent wind forecast models."
+
+abstract_short = "We propose a novel statistical wind power forecast framework, which leverages the spatio-temporal correlation in wind speed and direction data among geographically dispersed wind farms. Critical assessment of the performance of spatio-temporal wind power forecast is performed using realistic wind farm data from West Texas. It is shown that spatio-temporal wind forecast models are numerically efficient approaches to improving forecast quality. By reducing uncertainties in near-term wind power forecasts, the overall cost benefits on system dispatch can be quantified. We integrate the improved forecast with an advanced robust look-ahead dispatch framework. This integrated forecast and economic dispatch framework is tested in a modified IEEE RTS 24-bus system. Numerical simulation suggests that the overall generation cost can be reduced by up to 6% using a robust look-ahead dispatch coupled with spatio-temporal wind forecast as compared with persistent wind forecast models."
 
 # Is this a selected publication? (true/false)
 selected = true
 
 # Projects (optional).
-# Associate this publication with one or more of your projects.
-# Simply enter your project's folder or file name without extension.
-# E.g. projects = ["deep-learning"] references
-# content/project/deep-learning/index.md.
-# Otherwise, set projects = [].
-projects = []
-
-# Slides (optional).
-# Associate this publication with Markdown slides.
-# Simply enter your slide deck's filename without extension.
-# E.g. slides = "example-slides" references
-# content/slides/example-slides.md.
-# Otherwise, set slides = "".
-slides = ""
-
-# Tags (optional).
-# Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
-tags = []
-
-# Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/6616027"
-#url_preprint = ""
-#url_code = ""
-#url_dataset = ""
-#url_project = ""
-#url_slides = ""
-#url_video = ""
-#url_poster = ""
-#url_source = ""
-
-# Custom links (optional).
-# Uncomment line below to enable. For multiple links, use the form [{...}, {...}, {...}].
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
-# Digital Object Identifier (DOI)
-doi = "10.1109/TSG.2013.2282300"
-
-# Does this page contain LaTeX math? (true/false)
-math = true
-
-# Featured image
-# To use, add an image named featured.jpg/png to your page's folder.
-
-#[image]  
-  # Caption (optional)
-  #caption = ""
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  #focal_point = "
-
-+++
-
-+++
-
-title = "111Short-Term Spatio-Temporal Wind Power Forecast in Robust Look-ahead Power System Dispatch"
-date = 2014-01-01T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Le Xie","Yingzhong Gu","Xinxin Zhu" ,"Marc G. Genton" ]
-
-# Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-publication_types = ["2"]
-
-# Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Smart Grid*, Volume: 5 , Issue: 1 , Jan. 2014."
-publication_short = "*IEEE Transactions on Smart Grid*, Volume: 5 , Issue: 1 , Jan. 2014."
-
-
-# Abstract and optional shortened version.
-abstract = "This paper presents a novel algorithm for the early detection and optimal corrective measures of power system insecurity in an enhanced look-ahead dispatch framework. By introducing short-term dispatchable capacity (STDC) into the proposed look-ahead security management (LSM) scheme, the algorithm is capable of predicting and identifying future infeasibilities that pose security risks to the system under both normal conditions and assumed contingency conditions. An optimal recovery plan can be computed to prevent system insecurity at a minimal cost. Early awareness of such information is of vital importance to system operators for taking timely actions with more flexible and cost-effective measures. This, in addition to the economic benefits studied in the literature, demonstrates the advantage of security improvement of the look-ahead dispatch framework. The performance of the proposed algorithms is illustrated in a revised 24-bus IEEE Reliability Test System as well as in a practical 5889-bus system."
-abstract_short = "This paper presents a novel algorithm for the early detection and optimal corrective measures of power system insecurity in an enhanced look-ahead dispatch framework. By introducing short-term dispatchable capacity (STDC) into the proposed look-ahead security management (LSM) scheme, the algorithm is capable of predicting and identifying future infeasibilities that pose security risks to the system under both normal conditions and assumed contingency conditions. An optimal recovery plan can be computed to prevent system insecurity at a minimal cost. Early awareness of such information is of vital importance to system operators for taking timely actions with more flexible and cost-effective measures. This, in addition to the economic benefits studied in the literature, demonstrates the advantage of security improvement of the look-ahead dispatch framework. The performance of the proposed algorithms is illustrated in a revised 24-bus IEEE Reliability Test System as well as in a practical 5889-bus system."
-
-# Is this a selected publication? (true/false)
-selected = true
-
-# Projects (optional).
-
 projects = []
 
 # Slides (optional).
 slides = ""
 
 # Tags (optional).
-# Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
 tags = []
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/6616027"
 
 
-# Custom links (optional).
 
 doi = "10.1109/TSG.2013.2282300"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
 
-# Featured image
-# To use, add an image named featured.jpg/png to your page's folder.
 
-#[image]  
-  # Caption (optional)
-  #caption = ""
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  #focal_point = "
 
 +++
 
