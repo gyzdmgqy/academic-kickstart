@@ -16,8 +16,6 @@ image = ""
 caption = ""
 +++
 
-+++
-
 title = "Short-Term Spatio-Temporal Wind Power Forecast in Robust Look-ahead Power System Dispatch"
 date = 
 draft = false
