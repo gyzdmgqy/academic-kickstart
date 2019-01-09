@@ -1,6 +1,6 @@
 +++
 
-title = "Early detection and optimal corrective measures of power system insecurity in enhanced look-ahead dispatch"
+title = "Early1111 detection and optimal corrective measures of power system insecurity in enhanced look-ahead dispatch"
 date = 
 draft = false
 
