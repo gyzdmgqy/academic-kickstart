@@ -1,7 +1,7 @@
 +++
 
 title = "Fast MPC-Based Coordination of Wind Power and Battery Energy Storage Systems"
-date = 
+date = 2012-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
